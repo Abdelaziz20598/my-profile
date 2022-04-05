@@ -8,16 +8,10 @@
             }
 
             </style>
-	    <body>
             <h1>HELLO WORLD!</h1>
 	    <p>hello this is my p</p>
 	    <text>hi</text>
-	    <a target="_blank" href="https://www.linkedin.com/in/omar-abdelaziz-20598/">
-		<img id="myimg" src="https://img.icons8.com/fluency/344/linkedin-2.png">
-		<p id="myp">My Linkedin Account</p>
 
-	    </a>
-	  </body>
         </div>
     </foreignObject>
 </svg>
