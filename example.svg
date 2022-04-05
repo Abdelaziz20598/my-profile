@@ -9,8 +9,8 @@
 
             </style>
             <h1>HELLO WORLD!</h1>
-	     <a target="_blank" href="https://www.linkedin.com/in/omar-abdelaziz-20598/">
-			 My Linkedin Account
+	     <a xlink:href="https://www.linkedin.com/in/omar-abdelaziz-20598/" target="_blank">
+			<text> My Linkedin Account </text>
 	    </a>
         </div>
     </foreignObject>
