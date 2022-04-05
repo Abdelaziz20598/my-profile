@@ -10,10 +10,9 @@
             </style>
             <h1>HELLO WORLD!</h1>
 	    <a target="_blank" href="https://www.linkedin.com/in/omar-abdelaziz-20598/">
-		<div id="mydiv">
-			<img id="myimg" src="https://img.icons8.com/fluency/344/linkedin-2.png">
-			<p id="myp">My Linkedin Account</p>
-		</div>
+		<img id="myimg" src="https://img.icons8.com/fluency/344/linkedin-2.png">
+		<p id="myp">My Linkedin Account</p>
+
 	    </a>
 
         </div>
